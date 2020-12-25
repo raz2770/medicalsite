@@ -14,7 +14,7 @@ export default class App extends Component {
       <div className="app-div">
       
         <Navbar />
-        
+        <Home/>
 
         <Switch>
           <Route path='/' exact component={Home} />
