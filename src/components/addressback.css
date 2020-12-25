@@ -1,0 +1,39 @@
+.address-container {
+    /* background-color:rgb(238, 232, 240); */
+     
+    background-image: url('addressback.png');
+   
+    position:relative;
+    width:100%;
+    margin:0 auto;
+    background-color: #ccffff;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+
+    height:500px;
+    
+    text-align: center;
+    /* padding-top: 200px; */
+    
+    /* min-height:100%; */
+    background-size:100% 100% ;
+ 
+    
+    
+  }
+  .address-ad {
+ 
+    
+    
+  padding-top: 8px;
+    font-size: 40px;
+    color: rgb(168, 110, 117);
+    
+  }
+  .address-ad>p{
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+  }
+  
+  

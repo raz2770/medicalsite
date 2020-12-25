@@ -1,0 +1,46 @@
+.fct {
+  padding: 1rem;
+  background: rgb(106, 88, 189);
+}
+
+.fct__container {
+  display: flex;
+  flex-flow: column;
+  
+  max-width: 1120px;
+  width: 100%;
+  margin-left: 10px;
+ 
+}
+.ul{
+  margin-left: 60px;
+}
+
+.ul> li
+{
+  line-height: 20px;
+  margin-left: 60px;
+}
+.fct__wrapper {
+  position: relative;
+  margin: 0px 0 0px;
+}
+.fct__wrapper>h1
+{
+  font-family: 'Playfair Display', serif;
+  margin-bottom: 10px;
+  
+}
+
+
+@media only screen and (min-width: 1024px) {
+  .fct__items {
+    display: flex;
+  }
+}
+
+@media only screen and (max-width: 1024px) {
+  .fct__item {
+    margin-bottom: 2rem;
+  }
+}
