@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/medicalsite/static/css/main.29fb3a69.chunk.css",
+    "main.js": "/medicalsite/static/js/main.ab8a03b6.chunk.js",
+    "main.js.map": "/medicalsite/static/js/main.ab8a03b6.chunk.js.map",
+    "runtime-main.js": "/medicalsite/static/js/runtime-main.f2189efe.js",
+    "runtime-main.js.map": "/medicalsite/static/js/runtime-main.f2189efe.js.map",
+    "static/js/2.30ef6398.chunk.js": "/medicalsite/static/js/2.30ef6398.chunk.js",
+    "static/js/2.30ef6398.chunk.js.map": "/medicalsite/static/js/2.30ef6398.chunk.js.map",
+    "index.html": "/medicalsite/index.html",
+    "static/css/main.29fb3a69.chunk.css.map": "/medicalsite/static/css/main.29fb3a69.chunk.css.map",
+    "static/js/2.30ef6398.chunk.js.LICENSE.txt": "/medicalsite/static/js/2.30ef6398.chunk.js.LICENSE.txt",
+    "static/media/addressback.css": "/medicalsite/static/media/addressback.2cc03771.png",
+    "static/media/background.d3708116.mp4": "/medicalsite/static/media/background.d3708116.mp4",
+    "static/media/doctor-home-visit.04329e24.jpg": "/medicalsite/static/media/doctor-home-visit.04329e24.jpg",
+    "static/media/icu.7292662f.jpg": "/medicalsite/static/media/icu.7292662f.jpg",
+    "static/media/medicalEquipment.2cedb4e3.jpg": "/medicalsite/static/media/medicalEquipment.2cedb4e3.jpg",
+    "static/media/medicalServices.471cc192.jpg": "/medicalsite/static/media/medicalServices.471cc192.jpg",
+    "static/media/nurseVisiting.075aab0e.jpg": "/medicalsite/static/media/nurseVisiting.075aab0e.jpg",
+    "static/media/patient.15ca571b.jpg": "/medicalsite/static/media/patient.15ca571b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2189efe.js",
+    "static/js/2.30ef6398.chunk.js",
+    "static/css/main.29fb3a69.chunk.css",
+    "static/js/main.ab8a03b6.chunk.js"
+  ]
+}
